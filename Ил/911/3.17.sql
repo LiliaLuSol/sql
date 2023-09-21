@@ -1,0 +1,2 @@
+SELECT DISTINCT LName
+FROM Customer

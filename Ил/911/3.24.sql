@@ -1,0 +1,4 @@
+SELECT IdCity
+FROM Customer
+GROUP BY IdCity
+HAVING COUNT(*)>10

@@ -1,0 +1,2 @@
+SELECT [Description]
+FROM Product

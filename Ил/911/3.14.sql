@@ -1,0 +1,3 @@
+SELECT FName, LName, Phone
+FROM Customer
+WHERE NOT PHONE IS NULL
